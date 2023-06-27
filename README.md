@@ -26,7 +26,7 @@ Teeket application  is a  web application developed for event management. It pro
 8. Yup
 
 # Features
-1. Login : Authentication of user
+1. Login : Authentication of user, two sign in options (via google or email & password), validation of inputs before submission.
 2. Create Events: Users can create events
 3. Book Events: Users can book events
 4. Discover Events: Users can view trending and discover events
